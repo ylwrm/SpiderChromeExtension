@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "SpiderChromeExtension",
+    "version": "1.0",
+    "icons":{
+        "128": "joyful-128.png",
+        "48": "joyful-48.png",
+        "16": "joyful-16.png"
+    },
+    "browser_action":{
+        "default_icon": "joyful-16.png",
+        "default_popup": "index.html"
+    }
+}
